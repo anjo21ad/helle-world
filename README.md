@@ -1,3 +1,3 @@
 # helle-world
 Antons første repository 
-Jeg glæder mig meget til atlære Git bedre at kende. 
+Jeg glæder mig meget til at lære Git bedre at kende. 
